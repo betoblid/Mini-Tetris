@@ -1,7 +1,7 @@
 {
    "name": "mini-tetris",
   "productName": "Mini Tetris",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Mini Tetris game",
   "main": "./out/main/index.js",
   "author": "betoblid.com",
